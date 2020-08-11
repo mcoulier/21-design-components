@@ -3,12 +3,12 @@ body {
 }
 
 .footer {
-    background-color: beige;
+    background-color: #F8F3E9;
     padding: 20px;
     font-family: 'Lato', sans-serif;
 }
 
 .right {
     float: right;
-    word-spacing: 10px;
+    word-spacing: 25px;
 }
