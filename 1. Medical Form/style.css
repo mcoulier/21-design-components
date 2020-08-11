@@ -1,0 +1,23 @@
+body {
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+.lastname {
+    margin-left: 50%;
+}
+
+.dotline {
+    border: 1px;
+    border-top-style: dotted;
+    margin-top: 10px;
+}
+
+.outline-mode * {
+    outline: 1px solid #000;
+}
+
+.namegrid {
+    display: grid;
+    grid-row-start: 1;
+}
