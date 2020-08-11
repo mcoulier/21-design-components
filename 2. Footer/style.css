@@ -1,6 +1,5 @@
 .footer {
     background-color: beige;
-    width: 100%;
     padding: 20px;
 
 }
@@ -11,5 +10,8 @@
 
 .left {
     float: right;
+}
 
+a {
+    float: right;
 }
