@@ -3,5 +3,13 @@
 }
 
 .card-title {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;}
+
+.price {
+    font-weight: bold;
+}
+
+.comm {
+    font-size: 10px;
+    font-weight: bold;
 }
