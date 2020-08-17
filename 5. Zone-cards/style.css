@@ -1,3 +1,7 @@
-.headright {
-    float: right;
+.checked {
+    color: #49A097;
+}
+
+.card-title {
+    font-family: 'Open Sans', sans-serif;
 }
